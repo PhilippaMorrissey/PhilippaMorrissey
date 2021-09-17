@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PhilippaMorrissey
+- 👀 I’m interested in HTML, CSS, Javascript, Python, and anime.
+- 🌱 I’m currently learning HTML and CSS.
